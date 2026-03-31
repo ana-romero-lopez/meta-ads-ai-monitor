@@ -133,3 +133,4 @@ Built to solve a real operational problem at [Otomatico](https://otomatico.com),
 ---
 
 *Ana Romero · [Portfolio](https://ana-romero-lopez.github.io) · [LinkedIn](https://linkedin.com/in/ana-romero-lopez)*
+
