@@ -22,14 +22,9 @@ A Python script that runs automatically at 6am and does the full analysis for yo
 
 ## Output example
 
-**Metrics table** — delivered every morning:
+![Meta Ads AI Monitor — email preview](email-preview.png)
 
-| Campaign | Status | Spend | CTR | CPM | CPL | Frequency | Conversions |
-|---|---|---|---|---|---|---|---|
-| Campaign A | ACTIVE | €105.00 | 1.78% ▲ 12% | €4.84 | €0.27 | 1.55 | 389 |
-| Campaign B | ACTIVE | €444.94 | 1.32% ▼ 20% ⚠️ | €25.05 ▲ 30% ⚠️ | €1.90 | 1.70 | 234 |
-
-**AI differential diagnosis** — one per active campaign:
+The daily email includes a full campaign metrics table (spend, impressions, reach, frequency, CTR, CPC, CPM) followed by an AI differential diagnosis per active campaign. Example diagnosis:
 
 ```
 🚨 Campaign B [ACTIVE]
@@ -133,4 +128,3 @@ Built to solve a real operational problem at [Otomatico](https://otomatico.com),
 ---
 
 *Ana Romero · [Portfolio](https://ana-romero-lopez.github.io) · [LinkedIn](https://linkedin.com/in/ana-romero-lopez)*
-
